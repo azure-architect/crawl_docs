@@ -24,6 +24,7 @@ var/
 venv/
 env/
 ENV/
+*_env/
 
 # IDE files
 .idea/
@@ -38,3 +39,4 @@ crewai_docs_md/
 # OS specific
 .DS_Store
 Thumbs.db
+*_env/
